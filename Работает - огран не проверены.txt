@@ -336,6 +336,21 @@ vless://964342f5-d9fc-48ee-9d95-87709d0b831c@www.speedtest.net:443?encryption=no
 vless://18ea2e4d-f5d3-4da9-8f49-eae26e011ce3@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#%5BOpenRay%5D%20Dynamic-7648
 vless://d8ca33a5-2f55-42ab-cc82-366fec145806@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#%5BOpenRay%5D%20Dynamic-7656
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@89.19.44.48:2053?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1889
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?host=red-dream-2d6c.xepis84786.workers.dev&path=%2F&security=tls&sni=red-dream-2d6c.xepis84786.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-7632
+trojan://%24_qP4V4U26sb%7B04A@do-itforyou.pages.dev:2083?security=tls&sni=do-itfORYOU.PAGEs.deV&type=ws&path=%2FtrdFPAI0ljLLOygN2y%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-3964
+trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#%5BOpenRay%5D%20Dynamic-6943
+trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.0sm.com:443?security=tls&sni=vd.vmy2024.dpdns.org&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=vd.vmy2024.dpdns.org&path=%2F#%5BOpenRay%5D%20Dynamic-7579
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7586
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7587
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7588
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.008500.xyz:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7590
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7591
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.877774.xyz:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7592
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cdns.doon.eu.org:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7593
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@sub.danfeng.eu.org:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7594
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.zhetengsha.eu.org:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=/?ed=2560&Host=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7595
+trojan://trojan@www.digitalocean.com:443?host=azadnet-9ya.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=azadnet-9ya.pages.dev&type=ws#%5BOpenRay%5D%20Dynamic-7633
+
 
 
 
