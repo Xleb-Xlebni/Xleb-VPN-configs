@@ -729,4 +729,32 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#@vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#@vpnclashfa - 4330
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#@vpnclashfa - 4328
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#@vpnclashfa - 4326
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@azadnet05.pages.dev:443?path=/trEXTqpxNs1mMGItP4%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=aZADNeT05.pAgES.DEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%201%20-%20Trojan%20-%20Domain%20%3A%20443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@www.speedtest.net:443?path=/trElQxoXZqRyxcv3Ih%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=azaDNEt05.paGEs.Dev&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%202%20-%20Trojan%20-%20Domain%20%3A%20443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.44.81:443?path=/trH3NqKFQaNP8mpznD%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzAdNEt05.paGES.dEv&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%203%20-%20Trojan%20-%20IPv4%20%3A%20443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.47.175:443?path=/trFdhE4Yc8GppXMUF6%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=aZadNet05.PAgeS.dEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%204%20-%20Trojan%20-%20IPv4%20%3A%20443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@azadnet05.pages.dev:8443?path=/trsSPhmMZv8ld6xd5C%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=azaDneT05.PagES.DEv&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%207%20-%20Trojan%20-%20Domain%20%3A%208443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@www.speedtest.net:8443?path=/treAr5I0uTWMTjA4Jr%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AZadnet05.PAGEs.DEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%208%20-%20Trojan%20-%20Domain%20%3A%208443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.44.81:8443?path=/tr1SSmLmCEGKzqJ9H5%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=aZADneT05.pAgeS.dev&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%209%20-%20Trojan%20-%20IPv4%20%3A%208443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.47.175:8443?path=/trl9jDxscKXsInUQM7%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=aZAdNEt05.Pages.deV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2010%20-%20Trojan%20-%20IPv4%20%3A%208443
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@azadnet05.pages.dev:2053?path=/tr752bQXAGc3Ojnjfp%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AZADnET05.paGes.DEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2013%20-%20Trojan%20-%20Domain%20%3A%202053
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@www.speedtest.net:2053?path=/trR9HX2wn0v7sY9rpb%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzaDnEt05.PagES.DEv&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2014%20-%20Trojan%20-%20Domain%20%3A%202053
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.44.81:2053?path=/trAqeQvvECFEZ3xiQJ%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzadNEt05.PagEs.Dev&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2015%20-%20Trojan%20-%20IPv4%20%3A%202053
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.47.175:2053?path=/trmPZw16Ni7RV0VNRs%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AZADneT05.pAges.DEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2016%20-%20Trojan%20-%20IPv4%20%3A%202053
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@azadnet05.pages.dev:2083?path=/trkPOMF4NERzhk1IWE%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzaDnet05.PaGes.dEv&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2019%20-%20Trojan%20-%20Domain%20%3A%202083
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@www.speedtest.net:2083?path=/trKnIlK9VVtKuIRGjp%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzaDneT05.PAGEs.dev&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2020%20-%20Trojan%20-%20Domain%20%3A%202083
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.44.81:2083?path=/trGmbZTGbsmB9D276t%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=azaDnET05.PAGEs.deV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2021%20-%20Trojan%20-%20IPv4%20%3A%202083
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.47.175:2083?path=/trX32maOcFWepMIcOr%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AZADNet05.paGEs.dEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2022%20-%20Trojan%20-%20IPv4%20%3A%202083
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@www.speedtest.net:2087?path=/trEPU5WYItKerNyove%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=azADnEt05.PaGeS.deV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2026%20-%20Trojan%20-%20Domain%20%3A%202087
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.44.81:2087?path=/trvWzsn6SUEI2PkWJb%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzadnEt05.PaGEs.DEV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2027%20-%20Trojan%20-%20IPv4%20%3A%202087
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.47.175:2087?path=/trbjaF2Np1rlJzWFor%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzAdnet05.PaGes.Dev&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2028%20-%20Trojan%20-%20IPv4%20%3A%202087
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@www.speedtest.net:2096?path=/trfPzx10KBqNFQPAeR%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=AzADnet05.PaGES.DeV&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2032%20-%20Trojan%20-%20Domain%20%3A%202096
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.44.81:2096?path=/trLYOMv9Sm35javonn%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=azADNEt05.PAges.dEv&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2033%20-%20Trojan%20-%20IPv4%20%3A%202096
+trojan://3Ldo%2B%2C81m%5Bh)3Lb%2B@172.66.47.175:2096?path=/trNl9hzVWzqfLOKIhQ%3Fed%3D2560&host=azadnet05.pages.dev&type=ws&security=tls&sni=azADNet05.PAgEs.dEv&fp=randomized&alpn=h2,http/1.1#%F0%9F%92%A7%2034%20-%20Trojan%20-%20IPv4%20%3A%202096
+trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#@vpnclashfa - 425
+trojan://vip@172.67.153.253:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#@vpnclashfa - 420
+trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#@vpnclashfa - 418
+trojan://trojan@104.21.22.11:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd#@vpnclashfa - 417
+trojan://tg-dns68@162.159.153.88:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#@vpnclashfa - 416
+
 
