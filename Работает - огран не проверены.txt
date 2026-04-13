@@ -787,6 +787,10 @@ vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03
 vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoibm9uZSIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTc2NTAifQ==
 vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsInBvcnQiOiI4MCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoibm9uZSIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTc2NTEifQ==
 vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsInBvcnQiOiI4MCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoibm9uZSIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTc2NTIifQ==
+trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@vpnclashfa - 415
+trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@vpnclashfa - 414
+trojan://tg-dns68@162.159.152.8:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#@vpnclashfa - 413
+trojan://tg-dns68@162.159.152.158:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#@vpnclashfa - 412
 
 
 
